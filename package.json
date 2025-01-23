@@ -1,0 +1,14 @@
+{
+  "name": "coospace-clone-be",
+  "version": "1.0.0",
+  "description": "CooSpace Clone BE app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Turanszki Zoltan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
